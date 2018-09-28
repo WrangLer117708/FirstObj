@@ -1,0 +1,16 @@
+body {
+    background-image: url(../img/rip_jobs/rip_jobs.png);
+}
+
+.logo {
+    font-family: 'Titillium+Web', cursive;
+}
+
+.logo a {
+    color: rgba(0,0,0,.9);
+}
+
+.logo a:hover,
+.logo a:active {
+    text-decoration: none;
+}
