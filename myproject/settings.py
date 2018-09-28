@@ -89,10 +89,10 @@ WSGI_APPLICATION = 'myproject.wsgi.application'
 DATABASES = {
     'default' : {
         'ENGINE': 'django.db.backends.mysql', # 数据库引擎
-        'NAME': 'mydb', # 数据库名称
-        'USER': 'root', # 用哪个账户连接数据库
-        'PASSWORD': 'wangshanwen', # 密码
-        'HOST': '192.168.30.189',
+        'NAME': 'mydb***', # 数据库名称
+        'USER': '****', # 用哪个账户连接数据库
+        'PASSWORD': '*****', # 密码
+        'HOST': '192.168.30.****',
         'POST': '3306',
 }
 
