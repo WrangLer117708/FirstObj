@@ -1,2 +1,2 @@
 # FirstObj
-my first object fro django
+my first object for django
